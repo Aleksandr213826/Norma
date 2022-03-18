@@ -1,0 +1,121 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+<meta charset=utf-8“>
+<title>Первая HTML страница</title>
+<link href="css/style_L.css" rel="stylesheet">
+</head>
+<body>
+<h1 class="new5">Are Russian forces getting ready for war in Ukraine?</h1>
+
+<img  class="black" src="images/svyatogor.jpg" width="200" height="310" alt="святогор">
+
+<p>Despite a series of talks 
+involving Russia and the West, it remains unclear and the fear of invasion 
+remains.</p>
+
+<p>Russia seized part of southern Ukraine in 2014 and backed separatists who 
+started a conflict in large areas of the east.</p>
+
+<p>Now Russia is warning of military <a href="http://www.hovtocorp.com/typepilot" target="blank" title="Программа type pilot">http://www.hovtocorp.com/typepilot</a>measures if the West does not meet its 
+demands, and the US fears it could create a pretext to invade.</p>
+
+<p>Why is Ukraine under threat?</p>
+<p class="new4">Ukraine shares borders with both the EU and Russia, but as a former Soviet
+ republic it has deep social and cultural ties with Russia, and Russian is widely 
+spoken there.</p>
+
+<p class="new2">Russia has long resisted Ukraine's move towards European institutions and it 
+is now demanding it never joins Nato, a demand rejected by the Western 
+alliance.</p>
+
+<p>It was when Ukrainians deposed their pro-Russian president in early 2014 that
+ Russia moved in, seizing and annexing Ukraine's southern Crimean peninsula.
+ Russian-backed separatists then captured large swathes of Ukraine's two 
+eastern regions collectively known as the Donbas.</p>
+
+
+<h2 class="new">How big is the risk of invasion?</h2>
+<ol start="0">
+<li>Conflict between rebels and Ukraine's military has continued to this day, 
+although a shaky ceasefire is in place.</li>
+
+<li>But it is the Russian forces operating beyond the Ukrainian border that are of
+ most concern. Western intelligence services say they number up to 100,000.</li>
+
+<li>The risk of a conflict is real, says Nato's secretary general. But it does not
+ appear imminent.</li>
+</ol>
+
+<ul>
+<li>Conflict between rebels and Ukraine's military has continued to this day, 
+although a shaky ceasefire is in place.</li>
+
+<li>But it is the Russian forces operating beyond the Ukrainian border that are of
+ most concern. Western intelligence services say they number up to 100,000.</li>
+
+<li>The risk of a conflict is real, says Nato's secretary general. But it does not
+ appear imminent.</li>
+</ul>
+
+<ul>
+<li>Conflict between rebels and Ukraine's military has continued to this day, 
+although a shaky ceasefire is in place.</li>
+
+<li>But it is the Russian forces operating beyond the Ukrainian border that are of
+ most concern. Western intelligence services say they number up to 100,000.</li>
+
+<li>The risk of a conflict is real, says Nato's secretary general. But it does not
+ appear imminent.</li>
+</ul>
+
+<ul>
+<li>Conflict <span class="new2">between rebels</span> and <span class="new3">Ukraine's military has continued to this day,</span> 
+although a shaky ceasefire is in place.</li>
+
+<li>But it is the Russian forces operating beyond the Ukrainian border that are of
+ most concern. Western intelligence services say they number up to 100,000.</li>
+
+<li>The risk of a conflict is real, says Nato's secretary general. But it does not
+ appear imminent.</li>
+</ul>
+
+<dl>
+<dt>Conflict between rebels and Ukraine's military has continued to this day, 
+although a shaky ceasefire is in place.</dt>
+<dd>Описание1</dd>
+<dt>But it is the Russian forces operating beyond the Ukrainian border that are of
+ most concern. Western intelligence services say they number up to 100,000.</dt>
+<dd>Описание2</dd>
+<dt>The risk of a conflict is real, says Nato's secretary general. But it does not
+ appear imminent.</dt>
+ <dd>Описание3</dd>
+ 
+</dl>
+<div id="bt">
+<p><a href="files">Скачать єту статью</a></p>
+<p><a href="#header">Перейти к началу статьй</a></p>
+</div>
+
+<table>
+<tr><th>Дата</th><th>Время</th><th>Продукт</th><th>Место</th><th colspan="3">Белки, Жири, Углеводи</th><th>Деньги</th></tr>
+<tr></tr><td>15.02.22</td><td>12.00</td><td>Ряженка</td><td>Киев</td><td>3</td><td>5</td><td>8</td><td>40</td>
+<tr></tr><td>13.02.22</td><td>15.00</td><td>Молоко</td><td>Днепро</td><td>8</td><td>7</td><td>2</td><td>60</td>
+<tr></tr><td rowspan="2">15.01.22</td><td>13.00</td><td>Кефир</td><td>Житомир</td><td>5</td><td>6</td><td>1</td><td>80</td>
+<tr>                    <td>14.00</td><td>Водка</td><td>Львов</td><td>4</td><td>9</td><td>6</td><td>90</td></tr>
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
